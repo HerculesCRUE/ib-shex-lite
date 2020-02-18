@@ -1,6 +1,6 @@
 ---
 title: Gramar v1.0
-parent: Grammar
+parent: grammar
 has_children: false
 nav_order: 1
 ---
