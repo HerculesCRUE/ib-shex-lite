@@ -4,6 +4,6 @@ has_children: false
 nav_order: 1
 ---
 
-# Shapes Expressions Lite Documentation
+# Shapes expressions lite documentation
 
-Here you will find the documentation related to the development and ussage of shex-litle programing language.
+## You can use the resources on this page as documentation for the ShEx-Lite language
