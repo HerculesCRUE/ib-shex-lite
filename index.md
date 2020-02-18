@@ -1,7 +1,7 @@
 ---
 title: ShEx-Lite Documentation
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Shapes Expressions Lite Documentation
