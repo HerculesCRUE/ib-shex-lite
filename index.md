@@ -1,5 +1,5 @@
 ---
-title: ShEx-Lite Documentation
+title: Home
 has_children: false
 nav_order: 1
 ---
